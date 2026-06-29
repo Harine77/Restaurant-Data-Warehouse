@@ -12,6 +12,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import mysql.connector
+from mysql.connector import Error as MySQLError
 from sqlalchemy import create_engine
 from db_config import DB_CONFIG
 
@@ -82,7 +83,27 @@ def load_all():
     hourly   = run_query("SELECT * FROM agg_hourly_orders ORDER BY full_date")
     return daily, items, customers, staff, category, monthly, loyalty, hourly
 
-daily, items, customers, staff, category, monthly, loyalty, hourly = load_all()
+def show_db_setup_message(error_message):
+    st.error("Database connection failed. The dashboard needs a reachable MySQL database.")
+    st.markdown(
+        """
+        ### What to set for Streamlit Cloud
+        - `MYSQL_HOST`
+        - `MYSQL_USER`
+        - `MYSQL_PASSWORD`
+        - `MYSQL_DATABASE`
+
+        Put them in Streamlit secrets or environment variables.
+        """
+    )
+    st.code(error_message)
+    st.stop()
+
+
+try:
+    daily, items, customers, staff, category, monthly, loyalty, hourly = load_all()
+except (MySQLError, Exception) as exc:
+    show_db_setup_message(str(exc))
 
 # ════════════════════════════════════════════════════════════════
 # SIDEBAR
