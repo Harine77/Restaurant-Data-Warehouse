@@ -13,6 +13,7 @@ def _load_db_config():
 
     return {
         "host": os.getenv("MYSQL_HOST", secrets.get("host", "localhost")),
+        "port": int(os.getenv("MYSQL_PORT", secrets.get("port", 3306))),
         "user": os.getenv("MYSQL_USER", secrets.get("user", "root")),
         "password": os.getenv("MYSQL_PASSWORD", secrets.get("password", "")),
         "database": os.getenv("MYSQL_DATABASE", secrets.get("database", "restaurant_dw")),
