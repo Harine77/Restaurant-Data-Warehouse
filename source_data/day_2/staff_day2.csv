@@ -1,0 +1,43 @@
+staff_id,name,phone,email,role,department,salary,join_date,shift,status,last_updated
+STF001,Senthil Kumar,9841002001,senthil.k@murugan.com,Head Chef,Kitchen,48000,2018-06-01,Morning,Active,2024-02-10
+STF002,Murugesan P,9841002002,murugesan.p@murugan.com,Sous Chef,Kitchen,34000,2019-03-15,Morning,Active,2024-02-10
+STF003,Ramesh Babu,9841002003,ramesh.b@murugan.com,Cook,Kitchen,22000,2020-07-01,Morning,Active,2024-01-01
+STF004,Kalaiyarasan S,9841002004,kalaiya.s@murugan.com,Cook,Kitchen,22000,2020-08-10,Evening,Active,2024-01-01
+STF005,Dinesh Kumar,9841002005,dinesh.k@murugan.com,Cook,Kitchen,22000,2021-01-05,Morning,Active,2024-01-01
+STF006,Praveen S,9841099006,praveen.s@murugan.com,Waiter,Service,18000,2021-04-20,Morning,Active,2024-02-12
+STF007,Ashwin Raj,9841002007,ashwin.r@murugan.com,Captain,Service,25000,2021-06-15,Evening,Active,2024-02-14
+STF008,Vinoth M,9841002008,vinoth.m@murugan.com,Waiter,Service,18000,2022-01-10,Morning,Active,2024-01-01
+STF009,Tamil Selvan,9841002009,tamil.s@murugan.com,Waiter,Service,18000,2022-03-05,Evening,Active,2024-01-01
+STF010,Gopal R,9841002010,gopal.r@murugan.com,Waiter,Service,18000,2022-05-18,Morning,Active,2024-01-01
+STF011,Arulraj M,9841002011,arulraj.m@murugan.com,Captain,Service,25000,2019-09-01,Morning,Active,2024-01-01
+STF012,Selvam K,9841002012,selvam.k@murugan.com,Captain,Service,25000,2020-02-14,Evening,Active,2024-01-01
+STF013,Muthukumar R,9841099013,muthu.r@murugan.com,Cashier,Accounts,20000,2020-11-20,Morning,Active,2024-02-15
+STF014,Kannan P,9841002014,kannan.p@murugan.com,Cashier,Accounts,20000,2021-07-12,Evening,Active,2024-01-01
+STF015,Venkatesh S,9841002015,venkat.s@murugan.com,Billing Manager,Accounts,30000,2019-01-08,Morning,Active,2024-02-16
+STF016,Siva Kumar,9841002016,siva.k@murugan.com,Cleaner,Support,12000,2022-08-25,Morning,Active,2024-01-01
+STF017,Rajkumar M,9841002017,rajkumar.m@murugan.com,Cleaner,Support,12000,2022-09-14,Evening,Active,2024-01-01
+STF018,Pandian S,9841002018,pandian.s@murugan.com,Store Keeper,Supply,22000,2020-04-30,Morning,Active,2024-01-01
+STF019,Manikandan K,9841002019,mani.k@murugan.com,Supply Assistant,Supply,16000,2021-10-07,Morning,Active,2024-01-01
+STF020,Sugumar T,9841002020,sugumar.t@murugan.com,Waiter,Service,18000,2022-12-01,Evening,Active,2024-01-01
+STF021,Elumalai R,9841002021,eluma.r@murugan.com,Sous Chef,Kitchen,32000,2021-11-22,Evening,Active,2024-02-18
+STF022,Natarajan V,9841002022,nata.v@murugan.com,Cook,Kitchen,22000,2022-02-14,Morning,Active,2024-01-01
+STF023,Chandran P,9841002023,chandran.p@murugan.com,Waiter,Service,18000,2023-01-09,Morning,Active,2024-01-01
+STF024,Bala Krishnan,9841002024,bala.k@murugan.com,Waiter,Service,18000,2023-03-20,Evening,Active,2024-01-01
+STF025,Ganesan M,9841002025,ganesan.m@murugan.com,Head Chef,Kitchen,48000,2017-05-15,Evening,Active,2024-02-10
+STF026,Prabhu S,9841002026,prabhu.s@murugan.com,Cook,Kitchen,22000,2023-04-10,Morning,Active,2024-01-01
+STF027,Saravanan K,9841002027,sarava.k@murugan.com,Waiter,Service,18000,2023-05-22,Evening,Active,2024-01-01
+STF028,Rajan T,9841002028,rajan.t@murugan.com,Cashier,Accounts,20000,2022-06-30,Morning,Active,2024-01-01
+STF029,Murugan S,9841002029,murugan.s@murugan.com,Captain,Service,25000,2021-08-16,Morning,Active,2024-01-01
+STF030,Anand R,9841002030,anand.r@murugan.com,Cleaner,Support,12000,2023-06-05,Evening,Active,2024-01-01
+STF031,Kumaran P,9841002031,kumaran.p@murugan.com,Cook,Kitchen,22000,2022-10-18,Morning,Active,2024-01-01
+STF032,Palani S,9841002032,palani.s@murugan.com,Waiter,Service,18000,2023-07-14,Morning,Active,2024-01-01
+STF033,Subramanian K,9841002033,subra.k@murugan.com,Store Keeper,Supply,22000,2021-03-28,Evening,Active,2024-01-01
+STF034,Velu M,9841002034,velu.m@murugan.com,Supply Assistant,Supply,16000,2022-11-03,Morning,Active,2024-01-01
+STF035,Thirumaran R,9841002035,thiru.r@murugan.com,Waiter,Service,18000,2023-08-29,Evening,Active,2024-01-01
+STF036,Karthi S,9841002036,karthi.s@murugan.com,Cook,Kitchen,22000,2022-07-11,Morning,Active,2024-01-01
+STF037,Arun Prakash,9841002037,arun.p@murugan.com,Billing Manager,Accounts,30000,2020-09-25,Evening,Active,2024-02-16
+STF038,Suresh S,9841002038,suresh.s@murugan.com,Captain,Service,25000,2019-12-07,Morning,Active,2024-01-01
+STF039,Pradeep K,9841002039,pradeep.k@murugan.com,Waiter,Service,18000,2023-09-15,Morning,Active,2024-01-01
+STF040,Ilayaraja M,9841002040,ilaya.m@murugan.com,Cook,Kitchen,22000,2023-10-01,Evening,Active,2024-01-01
+STF041,Selvakumar R,9841002041,selva.r@murugan.com,Waiter,Service,18000,2024-02-22,Morning,Active,2024-02-22
+STF042,Ponraj M,9841002042,ponraj.m@murugan.com,Cook,Kitchen,22000,2024-02-25,Morning,Active,2024-02-25

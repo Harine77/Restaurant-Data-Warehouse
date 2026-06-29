@@ -1,0 +1,41 @@
+customer_id,name,phone,email,city,area,loyalty_tier,member_since,last_updated
+CUST001,Arun Kumar,9841001001,arun.kumar@gmail.com,Chennai,Anna Nagar,Silver,2022-01-10,2024-01-01
+CUST002,Priya Nair,9841001002,priya.nair@gmail.com,Chennai,T Nagar,Gold,2021-06-15,2024-01-01
+CUST003,Rajesh Iyer,9841001003,rajesh.iyer@gmail.com,Chennai,Adyar,Bronze,2023-03-20,2024-01-01
+CUST004,Sneha Pillai,9841001004,sneha.pillai@gmail.com,Coimbatore,RS Puram,Silver,2022-08-05,2024-01-01
+CUST005,Vikram Sharma,9841001005,vikram.sharma@gmail.com,Chennai,Velachery,Gold,2020-11-12,2024-01-01
+CUST006,Kavya Reddy,9841001006,kavya.reddy@gmail.com,Chennai,Mylapore,Bronze,2023-07-01,2024-01-01
+CUST007,Manoj Das,9841001007,manoj.das@gmail.com,Chennai,Nungambakkam,Silver,2021-09-18,2024-01-01
+CUST008,Ananya Singh,9841001008,ananya.singh@gmail.com,Chennai,OMR,Gold,2022-02-28,2024-01-01
+CUST009,Deepak Verma,9841001009,deepak.verma@gmail.com,Chennai,Porur,Bronze,2023-05-14,2024-01-01
+CUST010,Meena Rajan,9841001010,meena.rajan@gmail.com,Chennai,Anna Nagar,Silver,2021-04-22,2024-01-01
+CUST011,Suresh Menon,9841001011,suresh.menon@gmail.com,Chennai,Vadapalani,Gold,2020-08-30,2024-01-01
+CUST012,Lakshmi Bhat,9841001012,lakshmi.bhat@gmail.com,Chennai,Sholinganallur,Bronze,2023-01-07,2024-01-01
+CUST013,Ravi Chandran,9841001013,ravi.chandran@gmail.com,Madurai,Anna Nagar,Silver,2022-06-19,2024-01-01
+CUST014,Pooja Mehta,9841001014,pooja.mehta@gmail.com,Chennai,Guindy,Gold,2021-12-03,2024-01-01
+CUST015,Karthik Nair,9841001015,karthik.nair@gmail.com,Chennai,Tambaram,Bronze,2023-09-25,2024-01-01
+CUST016,Divya Krishnan,9841001016,divya.k@gmail.com,Chennai,Perambur,Silver,2022-03-11,2024-01-01
+CUST017,Arjun Patel,9841001017,arjun.patel@gmail.com,Chennai,Chromepet,Bronze,2023-11-08,2024-01-01
+CUST018,Swathi Rao,9841001018,swathi.rao@gmail.com,Chennai,Besant Nagar,Gold,2021-07-27,2024-01-01
+CUST019,Nikhil Joshi,9841001019,nikhil.joshi@gmail.com,Chennai,Kodambakkam,Silver,2022-10-14,2024-01-01
+CUST020,Asha Kumar,9841001020,asha.kumar@gmail.com,Trichy,Thillai Nagar,Bronze,2023-04-02,2024-01-01
+CUST021,Ganesh Raman,9841001021,ganesh.raman@gmail.com,Chennai,KK Nagar,Silver,2021-02-16,2024-01-01
+CUST022,Preethi Shah,9841001022,preethi.shah@gmail.com,Chennai,Mogappair,Gold,2020-05-09,2024-01-01
+CUST023,Rajan Nambiar,9841001023,rajan.nambiar@gmail.com,Chennai,Thiruvanmiyur,Bronze,2023-08-21,2024-01-01
+CUST024,Nithya Subramanian,9841001024,nithya.sub@gmail.com,Chennai,Pallikaranai,Silver,2022-01-30,2024-01-01
+CUST025,Balaji Venkat,9841001025,balaji.venkat@gmail.com,Chennai,Egmore,Gold,2021-10-05,2024-01-01
+CUST026,Saranya Mohan,9841001026,saranya.m@gmail.com,Chennai,Anna Nagar,Bronze,2023-06-13,2024-01-01
+CUST027,Praveen Raj,9841001027,praveen.raj@gmail.com,Chennai,Velachery,Silver,2022-04-08,2024-01-01
+CUST028,Deepa Krishnan,9841001028,deepa.k@gmail.com,Chennai,Adyar,Gold,2021-08-23,2024-01-01
+CUST029,Vinoth Kumar,9841001029,vinoth.k@gmail.com,Coimbatore,Gandhipuram,Bronze,2023-02-17,2024-01-01
+CUST030,Lavanya Mohan,9841001030,lavanya.m@gmail.com,Chennai,T Nagar,Silver,2022-07-31,2024-01-01
+CUST031,Sathish Kumar,9841001031,sathish.k@gmail.com,Chennai,Mylapore,Gold,2020-12-20,2024-01-01
+CUST032,Anusha Raj,9841001032,anusha.raj@gmail.com,Chennai,Nungambakkam,Bronze,2023-10-04,2024-01-01
+CUST033,Muthukumar P,9841001033,muthu.p@gmail.com,Chennai,Porur,Silver,2022-05-26,2024-01-01
+CUST034,Chandrika S,9841001034,chandrika.s@gmail.com,Chennai,OMR,Gold,2021-03-15,2024-01-01
+CUST035,Aravind Raj,9841001035,aravind.raj@gmail.com,Chennai,Sholinganallur,Bronze,2023-12-01,2024-01-01
+CUST036,Kavitha M,9841001036,kavitha.m@gmail.com,Chennai,Tambaram,Silver,2022-09-09,2024-01-01
+CUST037,Surya Kumar,9841001037,surya.k@gmail.com,Madurai,KK Nagar,Gold,2021-06-04,2024-01-01
+CUST038,Padma Suresh,9841001038,padma.s@gmail.com,Chennai,Guindy,Bronze,2023-03-28,2024-01-01
+CUST039,Vignesh R,9841001039,vignesh.r@gmail.com,Chennai,Chromepet,Silver,2022-11-17,2024-01-01
+CUST040,Malathi K,9841001040,malathi.k@gmail.com,Chennai,Besant Nagar,Gold,2020-09-14,2024-01-01

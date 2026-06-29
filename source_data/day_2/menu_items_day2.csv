@@ -1,0 +1,43 @@
+item_id,item_name,category,sub_category,price,is_veg,is_available,calories,prep_time_min,last_updated
+ITEM001,Idli (2 pcs),Breakfast,Steamed,35,Yes,1,150,10,2024-02-10
+ITEM002,Masala Dosa,Breakfast,Dosa,65,Yes,1,280,12,2024-02-10
+ITEM003,Plain Dosa,Breakfast,Dosa,45,Yes,1,220,10,2024-01-01
+ITEM004,Rava Dosa,Breakfast,Dosa,75,Yes,1,310,14,2024-02-12
+ITEM005,Pongal,Breakfast,Rice,50,Yes,1,320,15,2024-01-01
+ITEM006,Vada (2 pcs),Breakfast,Fried,40,Yes,1,200,8,2024-02-13
+ITEM007,Sambar Vada,Breakfast,Fried,50,Yes,1,240,8,2024-02-13
+ITEM008,Poori Masala,Breakfast,Fried,60,Yes,1,380,12,2024-02-14
+ITEM009,Upma,Breakfast,Semolina,40,Yes,1,260,10,2024-01-01
+ITEM010,Kesari,Desserts,Sweet,35,Yes,1,300,8,2024-02-15
+ITEM011,Mini Tiffin Combo,Combo,Tiffin,85,Yes,1,500,15,2024-02-15
+ITEM012,Full Meals,Meals,Rice Meals,130,Yes,1,900,20,2024-02-16
+ITEM013,Mini Meals,Meals,Rice Meals,80,Yes,1,600,15,2024-01-01
+ITEM014,Curd Rice,Meals,Rice,60,Yes,1,350,5,2024-01-01
+ITEM015,Lemon Rice,Meals,Rice,55,Yes,1,320,8,2024-01-01
+ITEM016,Tomato Rice,Meals,Rice,55,Yes,1,310,8,2024-01-01
+ITEM017,Chicken Biryani,Biryani,Non-Veg,190,No,1,680,30,2024-02-17
+ITEM018,Mutton Biryani,Biryani,Non-Veg,230,No,1,780,35,2024-02-17
+ITEM019,Veg Biryani,Biryani,Veg,150,Yes,1,520,25,2024-02-17
+ITEM020,Egg Biryani,Biryani,Non-Veg,160,No,1,580,25,2024-02-17
+ITEM021,Chicken 65,Starters,Non-Veg,170,No,1,420,15,2024-02-18
+ITEM022,Gobi 65,Starters,Veg,120,Yes,1,320,12,2024-01-01
+ITEM023,Paneer 65,Starters,Veg,150,Yes,1,380,12,2024-02-18
+ITEM024,Egg Bhurji,Starters,Non-Veg,90,No,1,280,8,2024-01-01
+ITEM025,Parotta (2 pcs),Breads,Maida,35,Yes,1,280,8,2024-02-19
+ITEM026,Chappati (2 pcs),Breads,Wheat,30,Yes,1,200,8,2024-02-19
+ITEM027,Naan (2 pcs),Breads,Maida,65,Yes,1,320,10,2024-02-19
+ITEM028,Filter Coffee,Beverages,Hot,30,Yes,1,60,5,2024-02-20
+ITEM029,Tea,Beverages,Hot,20,Yes,1,40,5,2024-02-20
+ITEM030,Lassi,Beverages,Cold,55,Yes,1,180,5,2024-02-20
+ITEM031,Fresh Lime Soda,Beverages,Cold,45,Yes,1,80,3,2024-02-20
+ITEM032,Buttermilk,Beverages,Cold,25,Yes,1,60,3,2024-02-20
+ITEM033,Gulab Jamun (2 pcs),Desserts,Sweet,65,Yes,1,280,5,2024-02-21
+ITEM034,Payasam,Desserts,Sweet,60,Yes,1,320,5,2024-02-21
+ITEM035,Halwa,Desserts,Sweet,55,Yes,1,300,5,2024-02-21
+ITEM036,Chicken Curry,Curry,Non-Veg,150,No,1,380,20,2024-02-21
+ITEM037,Mutton Curry,Curry,Non-Veg,190,No,1,420,25,2024-02-21
+ITEM038,Paneer Butter Masala,Curry,Veg,160,Yes,1,380,18,2024-02-21
+ITEM039,Dal Tadka,Curry,Veg,100,Yes,1,280,15,2024-02-21
+ITEM040,Rasam,Soups,Veg,35,Yes,1,80,10,2024-02-21
+ITEM041,Rava Idli (2 pcs),Breakfast,Steamed,45,Yes,1,200,12,2024-02-23
+ITEM042,Special Meals,Meals,Rice Meals,160,Yes,1,1100,20,2024-02-25
